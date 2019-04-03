@@ -1,2 +1,2 @@
 # qt
-qt demo
+qt demo for andrion
